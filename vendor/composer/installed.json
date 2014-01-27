@@ -66,5 +66,26 @@
             "mvc",
             "templating"
         ]
+    },
+    {
+        "name": "dg/adminer-custom",
+        "version": "v1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/dg/adminer-custom.git",
+            "reference": "d0d0f67e4aa03c3f7c1fc3898d1e179a0d22c8dc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/dg/adminer-custom/zipball/d0d0f67e4aa03c3f7c1fc3898d1e179a0d22c8dc",
+            "reference": "d0d0f67e4aa03c3f7c1fc3898d1e179a0d22c8dc",
+            "shasum": ""
+        },
+        "time": "2014-01-11 20:15:20",
+        "type": "project",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "description": "Customization for the best database management tool written in PHP, Adminer"
     }
 ]

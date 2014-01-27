@@ -9,6 +9,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "nette/nette": "2.1.x"
+        "nette/nette": "2.1.x",
+        "dg/adminer-custom": "1.*"
     }
 }

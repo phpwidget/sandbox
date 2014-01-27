@@ -3,8 +3,27 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "fcfb2488145999204bd7f70b49ce9df7",
+    "hash": "1199dae942c438f0d2aca31af7acf60b",
     "packages": [
+        {
+            "name": "dg/adminer-custom",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dg/adminer-custom.git",
+                "reference": "d0d0f67e4aa03c3f7c1fc3898d1e179a0d22c8dc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dg/adminer-custom/zipball/d0d0f67e4aa03c3f7c1fc3898d1e179a0d22c8dc",
+                "reference": "d0d0f67e4aa03c3f7c1fc3898d1e179a0d22c8dc",
+                "shasum": ""
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Customization for the best database management tool written in PHP, Adminer",
+            "time": "2014-01-11 20:15:20"
+        },
         {
             "name": "nette/nette",
             "version": "2.1.x-dev",
