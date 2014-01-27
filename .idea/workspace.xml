@@ -23,64 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="34" selection-start="298" selection-end="298" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="378">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adminer/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="900">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adminer.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/adminer/adminer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="1" selection-start="5012" selection-end="5012" vertical-scroll-proportion="0.81632656" vertical-offset="1266" max-vertical-offset="1854">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adminer.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/dg/adminer-custom/adminer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="31835" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10908">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="32" selection-start="155" selection-end="155" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="252">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="40" selection-start="429" selection-end="429" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="522">
+            <state line="3" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.086677365" vertical-offset="0" max-vertical-offset="623">
               <folding />
             </state>
           </provider>
@@ -98,11 +44,11 @@
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/bootstrap.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/adminer/index.php" />
         <option value="$PROJECT_DIR$/adminer/adminer.css" />
         <option value="$PROJECT_DIR$/license.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -256,30 +202,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="34" selection-start="298" selection-end="298" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="378">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/dg/adminer-custom/adminer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29880">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminer/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
@@ -301,6 +226,27 @@
     <entry file="file://$PROJECT_DIR$/adminer/adminer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="97" column="1" selection-start="5012" selection-end="5012" vertical-scroll-proportion="0.81632656" vertical-offset="1266" max-vertical-offset="1854">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="0.90604025" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="34" selection-start="298" selection-end="298" vertical-scroll-proportion="0.36241612" vertical-offset="0" max-vertical-offset="596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.086677365" vertical-offset="0" max-vertical-offset="623">
           <folding />
         </state>
       </provider>
