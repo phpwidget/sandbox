@@ -1,0 +1,14 @@
+{
+    "name": "phpwidget/sandbox",
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "Martin Krizan",
+            "email": "martin@phpwidget.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nette/nette": "2.1.x"
+    }
+}
